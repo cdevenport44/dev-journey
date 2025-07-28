@@ -22,7 +22,7 @@ A beginner-friendly Python project that performs basic arithmetic operations. Th
 
 1.📥 Clone the repository:
 
-  git clone https://github.com/yourusername/simple-calculator.git
+  git clone https://github.com/yourusername/Basic Calculator.git
   cd simple-calculator
 
 2.▶️ Run the program:
