@@ -8,7 +8,7 @@ A beginner-friendly Python project that performs basic arithmetic operations. Th
 * ✅ Input validation and error handling
 * 🧼 Clean and simple terminal UI
 🗂️ Project Structure
-Simple Calculator/ ├── Simple_Calculator.py └── README.md
+Basic Calculator/ ├── Simple_Calculator.py └── README.md
 🧰 Requirements
 * 🐍 Python 3.x
 * No external libraries needed
