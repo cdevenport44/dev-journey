@@ -1,17 +1,23 @@
 💻🧮 Simple Calculator
 A beginner-friendly Python project that performs basic arithmetic operations. This calculator runs in the terminal and supports addition, subtraction, multiplication, and division.
+
 ⚙️ Features
-* ➕ Addition
-* ➖ Subtraction
-* ✖️ Multiplication
-* ➗ Division
-* ✅ Input validation and error handling
-* 🧼 Clean and simple terminal UI
+
+  * ➕ Addition
+  * ➖ Subtraction
+  * ✖️ Multiplication
+  * ➗ Division
+  * ✅ Input validation and error handling
+  * 🧼 Clean and simple terminal UI
+
 🗂️ Project Structure
-Basic Calculator/ ├── Simple_Calculator.py └── README.md
+
+  Basic Calculator/ ├── Simple_Calculator.py └── README.md
+
 🧰 Requirements
-* 🐍 Python 3.x
-* No external libraries needed
+  * 🐍 Python 3.x
+  * No external libraries needed
+
 🖥️ How to Run
 
 1.📥 Clone the repository:
