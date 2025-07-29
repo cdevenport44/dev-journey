@@ -1,35 +1,51 @@
-🧮 Simple CLI Calculator
+# 🧮 Simple CLI Calculator in Python
 
-A calculator application built using Python. The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+A beginner-friendly command-line calculator built in Python. This tool allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division directly from the terminal.
 
-🗒️ Description:
+---
 
-A command line interface calculator that performs basic arithmetic operations and includes a while loop so users can choose to perform another calculation or exit the program. Display a menu to the user. Print operation choices for the user to select from. Get user input and accept input for the operation and two numbers. Call the appropriate function based on the user's choice, execute the corresponding function and display the result. Handle invalid input such as add basic validation for user choices and division by zero.
+## 📋 Description
 
- 
-🗂️ Project Structure
+This project is designed to help beginners understand the basics of Python programming, including:
 
-  Basic Calculator/ ├── Simple_Calculator.py └── README.md
+- Working with functions
+- Handling user input
+- Implementing loops and conditionals
+- Basic error handling (e.g., division by zero, invalid inputs)
 
-🧰 Required Modules
+The calculator supports continuous use in a loop until the user chooses to exit.
 
-  * 🐍 Python 3.x
-  * No external libraries needed
+---
 
-▶️ How to Run the Script
+## 🛠️ Required Modules
 
-  1. Clone the repository:
+- Python 3.x  
+- No external packages required (uses built-in libraries only)
 
-  git clone https://github.com/yourusername/Basic Calculator.git
-  cd simple_calculator
+---
 
-  2. Run the program:
+## 📦 Installation
 
-  Simple_Calculator.py
+1. **Clone the repository** or download the Python file directly:
 
-  3. Follow the prompts to perform calculations:
+```bash
+git clone https://github.com/yourusername/Basic Calculator-python.git
+cd Basic-Calculator-python
 
-  * Select operation
-  * Perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+▶️ How to Run
 
-Happy Calculating!
+From your terminal or command prompt:
+python calculator.py
+You will see a menu of operations to choose from. Follow the prompts to perform calculations.
+
+📁 Project Structure
+
+Basic-Calculator-python/
+│
+├── Simple_Calculator.py    # Main CLI calculator script
+└── README.md        # Project documentation
+
+📄 License
+This project is licensed under the MIT License.
+
+
