@@ -1,51 +1,35 @@
-💻🧮 Simple Calculator
-A beginner-friendly Python project that performs basic arithmetic operations. This calculator runs in the terminal and supports addition, subtraction, multiplication, and division.
+🧮 Simple CLI Calculator
 
-⚙️ Features
+A calculator application built using Python. The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-  * ➕ Addition
-  * ➖ Subtraction
-  * ✖️ Multiplication
-  * ➗ Division
-  * ✅ Input validation and error handling
-  * 🧼 Clean and simple terminal UI
+🗒️ Description:
 
+A command line interface calculator that performs basic arithmetic operations and includes a switch case statement so users can choose to perform another calculation or exit the program. Display a menu to the user. Print operation choices for the user to select from. Get user input and accept input for the operation and two numbers. Call the appropriate function based on the user's choice, execute the corresponding function and display the result. Handle invalid input such as add basic validation for user choices and division by zero.
+
+ 
 🗂️ Project Structure
 
   Basic Calculator/ ├── Simple_Calculator.py └── README.md
 
-🧰 Requirements
+🧰 Required Modules
+
   * 🐍 Python 3.x
   * No external libraries needed
 
-🖥️ How to Run
+▶️ How to Run the Script
 
-1.📥 Clone the repository:
+  1. Clone the repository:
 
   git clone https://github.com/yourusername/Basic Calculator.git
   cd simple_calculator
 
-2.▶️ Run the program:
+  2. Run the program:
 
   Simple_Calculator.py
 
-3. 💻Follow the prompts to perform calculations:
+  3. Follow the prompts to perform calculations:
 
-  Select operation:
-  1.Add
-  2.Subtract
-  3.Multiply
-  4.Divide
-
-  Enter choice(1/2/3/4): 3
-  Enter first number: 4
-  Enter second number: 30
-
-  4.0 * 30.0 = 120.0
-
-🚫 Error Handling
-❌ Handles division by zero
-
-🔁 Prompts again for invalid inputs
+  * Select operation
+  * Perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 Happy Calculating!
