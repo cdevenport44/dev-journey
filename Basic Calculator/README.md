@@ -4,7 +4,7 @@ A calculator application built using Python. The calculator can perform basic ar
 
 🗒️ Description:
 
-A command line interface calculator that performs basic arithmetic operations and includes a switch case statement so users can choose to perform another calculation or exit the program. Display a menu to the user. Print operation choices for the user to select from. Get user input and accept input for the operation and two numbers. Call the appropriate function based on the user's choice, execute the corresponding function and display the result. Handle invalid input such as add basic validation for user choices and division by zero.
+A command line interface calculator that performs basic arithmetic operations and includes a while loop so users can choose to perform another calculation or exit the program. Display a menu to the user. Print operation choices for the user to select from. Get user input and accept input for the operation and two numbers. Call the appropriate function based on the user's choice, execute the corresponding function and display the result. Handle invalid input such as add basic validation for user choices and division by zero.
 
  
 🗂️ Project Structure
