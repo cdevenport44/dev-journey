@@ -26,7 +26,7 @@ This project is ideal for anyone looking to quickly generate and save QR codes w
 
 ## 📦 Installation
 
-1. **Clone the repository** (or download the `.py` file directly):
+ **Clone the repository** (or download the `.py` file directly):
 
 ```bash
 git clone https://github.com/yourusername/QR Code Generator-python.git
